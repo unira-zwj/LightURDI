@@ -44,6 +44,10 @@ bash start_env.sh
 python ur3_follow_with_web_ui
 ```
 
+## Main Contributors
+
+- [Weijie Zhou](https://github.com/unira-zwj)
+- [Yi Peng]()
 
 ## Acknowledgement
 
