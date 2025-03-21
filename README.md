@@ -7,18 +7,26 @@
 </div>
 
 
-📖 **LightURDI: 一个低成本、便携的遥操作与人类演示数据采集系统**
+📖 **LightURDI: A Low-Cost, Portable Data Collection System for Teleoperation and Human Demonstration**
 
-![Demo](assert/demo.jpg)
+Human Demonstration
+
+![Demo](assert/human_option.gif)
+
+Teleoperation
+
+<img src="assert/tele_option.gif" alt="Demo" width="800" height="400">
+
 
 ## Release
 
+- [ ] **TODO** Release our paper
+- [ ] **TODO** Action policy training code
+- [ ] **TODO** Surpport for new robot, like XArm6 and ALOHA. 
 - [x] **`2025.03.12`** 🔥Release the LightURDI base code.
 
 
 ## Get Started
-
-
 
 ### 1.Clone & Install
 
@@ -26,7 +34,7 @@
 git clone git@github.com:unira-zwj/LightURDI.git
 ```
 
-你需要预先安装ROS2
+You should pre-install ROS2.
 
 ---
 
