@@ -15,7 +15,7 @@ Human Demonstration
 
 Teleoperation
 
-<img src="assert/tele_option.gif" alt="Demo" width="800" height="400">
+<img src="assert/tele_option.gif" alt="Demo" width="800" height="800">
 
 
 ## Release
